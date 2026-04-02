@@ -107,7 +107,7 @@ const anas = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasHasabelelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashasabelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
 ---
