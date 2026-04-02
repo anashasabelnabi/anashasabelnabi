@@ -1,98 +1,184 @@
 <div align="center">
-👋 Hi, I'm Anas Hasab Elnabi
-Senior QA Engineer | Test Automation Specialist | Performance Testing Expert
-https://linkedin.com/in/anas-hasab
-https://github.com/anashasabelnabi
-https://anashasabelnabi.github.io
-mailto:anas.hasab.elnabi@gmail.com
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Anas+Hasabelnabi;Senior+QA+Engineer+%7C+5%2B+Years;Building+Quality+Through+Automation+%F0%9F%9A%80;ISTQB+Certified+%7C+Tech+Lead+Track" alt="Typing SVG" />
 </div>
-🚀 About Me
-I'm a Senior QA Engineer based in Cairo, Egypt, with 5+ years of experience ensuring software quality across enterprise-level applications. Currently working dual roles at:
-🏢 VOIS (Vodafone Intelligent Solutions) - Senior Test Engineer (Oct 2022 - Present)
-🏢 Tamkeen Technologies - Senior QA Engineer (Mar 2024 - Present)
-Specialized in test automation, API testing, and performance engineering. Passionate about building robust testing frameworks and implementing CI/CD pipelines.
-💼 Current Experience
-Senior Test Engineer @ VOIS (Vodafone Intelligent Solutions)
-Oct 2022 - Present | DXL German Project
-Review User Stories and requirements
-Attend refinement meetings with product owners
-Estimate testing activities and plan test cycles
-Create and update test scripts, push changes to GitHub
-Run CI/CD pipelines (Jenkins, Argo CD)
-Execute API testing with Postman and performance testing with JMeter
-Report test cases and bug reports using Jira
-Tech Stack: IntelliJ Postman Jenkins Argo CD GitHub Jira JMeter SoapUI
-Senior QA Engineer @ Tamkeen Technologies
-Mar 2024 - Present
-Review User Stories and requirements
-Attend refinement meetings with product owners
-Working on Frontend and Backend Testing
-Create and update test cases and bug reports using Jira
-Create and run Regression Test Suite
-Tech Stack: Selenium Postman Jira Confluence Microsoft Teams
-🛠️ Technical Skills
-Test Automation
- Selenium 
 
- TestNG 
+<h3 align="center">🔍 Senior Testing Engineer | API Automation Specialist | CI/CD Expert</h3>
 
- Maven 
+<p align="center">
+  <a href="https://linkedin.com/in/anashasabelnabi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://anashasabelnabi.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+</p>
 
- Cucumber 
+---
 
- Appium 
+### 👨‍💻 About Me
+```typescript
+const anas = {
+    location: "Cairo, Egypt 🇪🇬",
+    current_role: "Senior Testing Engineer @ VOIS (Vodafone)",
+    experience: "5+ years",
+    focus: ["API Automation", "CI/CD", "Performance Testing", "Technical Mentorship"],
+    currently_learning: ["Playwright", "K6", "AWS Cloud"],
+    career_goal: "Technical Lead in QA Engineering",
+    fun_fact: "I turn ☕ into 🤖 automated tests"
+};
+```
 
- Rest Assured 
-API & Performance Testing
- Postman 
+---
 
- JMeter 
+### 🚀 What I Do
 
- SoapUI 
-DevOps & CI/CD
- GitHub 
+- 🎯 **Design & build** scalable test automation frameworks for enterprise systems
+- ⚙️ **Manage** production CI/CD pipelines on Jenkins (daily deployments)
+- 🔌 **Specialize** in API testing for microservices architectures  
+- 👥 **Mentor** junior QA engineers and conduct technical onboarding
+- 📊 **Reduce** testing cycles by 70% through strategic automation
 
- Jenkins 
+---
 
- Azure DevOps 
+### 💼 Professional Journey
+```mermaid
+graph LR
+    A[Fawry<br/>Fintech] --> B[Algoriza<br/>Consulting]
+    B --> C[Tamkeen<br/>Projects]
+    C --> D[VOIS<br/>Vodafone<br/>3 Years]
+    D --> E[Technical Lead<br/>Next Step 🎯]
+    
+    style D fill:#6366f1,stroke:#4338ca,stroke-width:3px,color:#fff
+    style E fill:#10b981,stroke:#059669,stroke-width:3px,color:#fff
+```
 
- Docker 
-Programming & Databases
- Java 
+---
 
- SQL 
+### 🛠️ Tech Stack
 
- PHP 
-📂 Featured Projects
-🔹 Amazon E2E Test Automation
-Real-world E-commerce Testing Suite
-Comprehensive end-to-end test automation framework for Amazon's e-commerce platform demonstrating real-world testing scenarios.
-✅ Page Object Model implementation
-✅ E-commerce workflow automation
-✅ Data-driven test scenarios
-✅ Real production-like testing
-Stack: Java Selenium TestNG Maven POM Pattern
-🔹 Test Automation Framework
-Enterprise-grade Testing Architecture
-A robust, modular, data-driven test automation framework with object-oriented design.
-✅ Data-driven architecture with JSON configuration
-✅ Cross-browser support (Chrome, Firefox, Edge)
-✅ Allure reporting with automatic screenshots
-✅ Customized failure reporting
-Stack: Java Selenium Maven TestNG Allure Report JSON
-📊 GitHub Stats
+#### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Test Automation**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DC5C35?style=for-the-badge&logo=testng&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-5B9A3D?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **CI/CD & DevOps**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Performance & Monitoring**
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### **Tools & IDEs**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anashasabelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashasabelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-🏆 Certifications
-ISTQB Foundation Level V4 - Certified Tester
-B.S.E. Computer & Artificial Intelligence - Helwan University (2015-2019)
-📫 Get In Touch
-Portfolio: anashasabelnabi.github.io
-LinkedIn: linkedin.com/in/anas-hasab
-Email: anas.hasab.elnabi@gmail.com
-Phone: +20 111 601 0529
-Location: Cairo, Egypt
+
 <div align="center">
-💡 "Quality is not an act, it's a habit"
-Let's build quality together! 🚀
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashasabelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+### 🏆 Achievements & Impact
+
+<div align="center">
+
+| 📈 Metric | 🎯 Achievement |
+|-----------|---------------|
+| **Testing Time Reduction** | 70% faster cycles |
+| **Automated Test Cases** | 500+ in production |
+| **Test Stability Rate** | 95%+ uptime |
+| **Engineers Mentored** | 5+ team members |
+| **Years of Experience** | 5+ years |
+| **Certification** | ISTQB CTFL v4 ✅ |
+
+</div>
+
+---
+
+### 🎓 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ISTQB-CTFL_v4-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white" alt="ISTQB"/>
+  <img src="https://img.shields.io/badge/AWS-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</div>
+
+---
+
+### 📌 Featured Projects
+
+#### 🚀 [[Telecom API Automation Framework](https://github.com/anashasabelnabi/amazonTest)]
+> Enterprise-grade automation framework for Amazon
+- **Tech:** Selenium, TestNG, RestAssured, Jenkins, Maven
+- **Features:** Page Object Model, Data-driven testing, CI/CD integration
+
+---
+
+### 💡 Current Focus
+```javascript
+const currentGoals = {
+    learning: [
+        "Mastering Playwright for modern E2E testing",
+        "K6 for performance testing at scale",
+        "AWS Cloud infrastructure & testing"
+    ],
+    building: [
+        "Open-source automation frameworks",
+        "Technical blog on testing best practices",
+        "GitHub portfolio showcasing real projects"
+    ],
+    career: [
+        "Transitioning to Technical Lead role",
+        "Contributing to QA community",
+        "Mentoring the next generation of QA engineers"
+    ]
+};
+```
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+💼 Open to **Technical Lead** opportunities  
+🌍 Based in **Cairo, Egypt** | Open to **Remote**  
+📧 Reach me at: **anas_hasab_elnabi@yahoo.com**  
+🌐 Portfolio: **[anashasabelnabi.github.io](https://anashasabelnabi.github.io)**  
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+[![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anashasabelnabi&theme=react-dark)](https://github.com/anashasabelnabi)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anashasabelnabi&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  
+  ### ⚡ "Quality is not an act, it is a habit." - Aristotle
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
