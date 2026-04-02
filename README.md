@@ -13,8 +13,8 @@
 ---
 
 ### 👨‍💻 About Me
-<pre>
-````typescript
+
+typescript
 const anas = {
     location: "Cairo, Egypt 🇪🇬",
     current_role: "Senior Testing Engineer @ VOIS (Vodafone)",
@@ -24,8 +24,6 @@ const anas = {
     career_goal: "Technical Lead in QA Engineering",
     fun_fact: "I turn ☕ into 🤖 automated tests"
 };
-````
-</pre>
 
 ---
 
