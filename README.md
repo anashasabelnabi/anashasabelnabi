@@ -13,7 +13,8 @@
 ---
 
 ### 👨‍💻 About Me
-```typescript
+<pre>
+````typescript
 const anas = {
     location: "Cairo, Egypt 🇪🇬",
     current_role: "Senior Testing Engineer @ VOIS (Vodafone)",
@@ -23,7 +24,8 @@ const anas = {
     career_goal: "Technical Lead in QA Engineering",
     fun_fact: "I turn ☕ into 🤖 automated tests"
 };
-```
+````
+</pre>
 
 ---
 
@@ -101,8 +103,8 @@ const anas = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasHasabelelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHasabelelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anashasabelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashasabelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -176,6 +178,7 @@ const anas = {
 ---
 
 ### 💡 Current Focus
+<pre>
 ```javascript
 const currentGoals = {
     learning: [
@@ -195,6 +198,7 @@ const currentGoals = {
     ]
 };
 ```
+</pre>
 
 ---
 
