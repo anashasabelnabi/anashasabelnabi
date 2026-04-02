@@ -102,11 +102,6 @@ const anas = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anashasabelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashasabelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashasabelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
