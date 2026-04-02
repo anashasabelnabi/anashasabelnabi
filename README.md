@@ -1,22 +1,98 @@
-<h1 align="center">Hi 👋, I'm Anas Hasab Elnabi</h1>
-<h3 align="center">Associate Testing Engineer</h3>
+<div align="center">
+👋 Hi, I'm Anas Hasab Elnabi
+Senior QA Engineer | Test Automation Specialist | Performance Testing Expert
+https://linkedin.com/in/anas-hasab
+https://github.com/anashasabelnabi
+https://anashasabelnabi.github.io
+mailto:anas.hasab.elnabi@gmail.com
+</div>
+🚀 About Me
+I'm a Senior QA Engineer based in Cairo, Egypt, with 5+ years of experience ensuring software quality across enterprise-level applications. Currently working dual roles at:
+🏢 VOIS (Vodafone Intelligent Solutions) - Senior Test Engineer (Oct 2022 - Present)
+🏢 Tamkeen Technologies - Senior QA Engineer (Mar 2024 - Present)
+Specialized in test automation, API testing, and performance engineering. Passionate about building robust testing frameworks and implementing CI/CD pipelines.
+💼 Current Experience
+Senior Test Engineer @ VOIS (Vodafone Intelligent Solutions)
+Oct 2022 - Present | DXL German Project
+Review User Stories and requirements
+Attend refinement meetings with product owners
+Estimate testing activities and plan test cycles
+Create and update test scripts, push changes to GitHub
+Run CI/CD pipelines (Jenkins, Argo CD)
+Execute API testing with Postman and performance testing with JMeter
+Report test cases and bug reports using Jira
+Tech Stack: IntelliJ Postman Jenkins Argo CD GitHub Jira JMeter SoapUI
+Senior QA Engineer @ Tamkeen Technologies
+Mar 2024 - Present
+Review User Stories and requirements
+Attend refinement meetings with product owners
+Working on Frontend and Backend Testing
+Create and update test cases and bug reports using Jira
+Create and run Regression Test Suite
+Tech Stack: Selenium Postman Jira Confluence Microsoft Teams
+🛠️ Technical Skills
+Test Automation
+ Selenium 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashasabelnabi&label=Profile%20views&color=0e75b6&style=flat" alt="anashasabelnabi" /> </p>
+ TestNG 
 
-- 🔭 I’m currently working on **_VOIS**
+ Maven 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SEo8YCXv5uXpzIFlTG6tB2C-0CslpQNm/view?usp=sharing](https://drive.google.com/file/d/1SEo8YCXv5uXpzIFlTG6tB2C-0CslpQNm/view?usp=sharing)
+ Cucumber 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-hasab-elnabi-47607b115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-hasab-elnabi-47607b115/" height="30" width="40" /></a>
-</p>
+ Appium 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+ Rest Assured 
+API & Performance Testing
+ Postman 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anashasabelnabi&show_icons=true&locale=en&layout=compact" alt="anashasabelnabi" /></p>
+ JMeter 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anashasabelnabi&show_icons=true&locale=en" alt="anashasabelnabi" /></p>
+ SoapUI 
+DevOps & CI/CD
+ GitHub 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anashasabelnabi&" alt="anashasabelnabi" /></p>
+ Jenkins 
+
+ Azure DevOps 
+
+ Docker 
+Programming & Databases
+ Java 
+
+ SQL 
+
+ PHP 
+📂 Featured Projects
+🔹 Amazon E2E Test Automation
+Real-world E-commerce Testing Suite
+Comprehensive end-to-end test automation framework for Amazon's e-commerce platform demonstrating real-world testing scenarios.
+✅ Page Object Model implementation
+✅ E-commerce workflow automation
+✅ Data-driven test scenarios
+✅ Real production-like testing
+Stack: Java Selenium TestNG Maven POM Pattern
+🔹 Test Automation Framework
+Enterprise-grade Testing Architecture
+A robust, modular, data-driven test automation framework with object-oriented design.
+✅ Data-driven architecture with JSON configuration
+✅ Cross-browser support (Chrome, Firefox, Edge)
+✅ Allure reporting with automatic screenshots
+✅ Customized failure reporting
+Stack: Java Selenium Maven TestNG Allure Report JSON
+📊 GitHub Stats
+<div align="center">
+</div>
+🏆 Certifications
+ISTQB Foundation Level V4 - Certified Tester
+B.S.E. Computer & Artificial Intelligence - Helwan University (2015-2019)
+📫 Get In Touch
+Portfolio: anashasabelnabi.github.io
+LinkedIn: linkedin.com/in/anas-hasab
+Email: anas.hasab.elnabi@gmail.com
+Phone: +20 111 601 0529
+Location: Cairo, Egypt
+<div align="center">
+💡 "Quality is not an act, it's a habit"
+Let's build quality together! 🚀
+</div>
