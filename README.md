@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anashasabelnabi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:anas_hasab_elnabi@yahoo.com"><img src="https://img.shields.io/badge/-Email-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white"/></a>
   <a href="https://anashasabelnabi.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
@@ -38,16 +38,29 @@ const anas = {
 ---
 
 ### 💼 Professional Journey
-```mermaid
-graph LR
-    A[Fawry<br/>Fintech] --> B[Algoriza<br/>Consulting]
-    B --> C[Tamkeen<br/>Projects]
-    C --> D[VOIS<br/>Vodafone<br/>3 Years]
-    D --> E[Technical Lead<br/>Next Step 🎯]
-    
-    style D fill:#6366f1,stroke:#4338ca,stroke-width:3px,color:#fff
-    style E fill:#10b981,stroke:#059669,stroke-width:3px,color:#fff
-```
+
+**2022 - Present** 🚀  
+**Senior Testing Engineer** @ **VOIS (Vodafone Intelligent Solutions)**
+- Leading API automation for mid-layer telecom systems
+- Managing production CI/CD pipelines on Jenkins
+- Mentoring junior engineers and conducting technical onboarding
+- Reduced regression testing time by 70%
+
+**2024 (Mar - Sep)** 🔧  
+**QA Engineer** @ **Tamkeen Technologies**
+- Full-stack testing: Database, APIs, and Frontend
+- Test automation framework development
+- Agile team collaboration
+
+**Previous Experience** 💳  
+**QA Engineer** @ **Fawry** (Fintech)
+- Payment systems testing and validation
+- API and security testing for financial transactions
+
+**Previous Experience** 📊  
+**QA Engineer** @ **Algoriza**
+- Consulting projects across multiple domains
+- Diverse technology stack exposure
 
 ---
 
@@ -88,12 +101,12 @@ graph LR
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anashasabelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashasabelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasHasabelelnabi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHasabelelnabi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashasabelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasHasabelelnabi&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -126,10 +139,39 @@ graph LR
 
 ### 📌 Featured Projects
 
-#### 🚀 [[Telecom API Automation Framework](https://github.com/anashasabelnabi/amazonTest)]
-> Enterprise-grade automation framework for Amazon
-- **Tech:** Selenium, TestNG, RestAssured, Jenkins, Maven
-- **Features:** Page Object Model, Data-driven testing, CI/CD integration
+#### 🛒 [Amazon E-Commerce Test Automation](https://github.com/anashasabelnabi/amazonTest)
+> Comprehensive test automation suite for Amazon's e-commerce platform
+- **Tech Stack:** Selenium WebDriver, TestNG, Java, Maven
+- **Features:** 
+  - End-to-end user journey testing
+  - Product search and filtering validation
+  - Cart and checkout flow automation
+  - Cross-browser testing support
+- **Highlights:** Page Object Model design pattern, Data-driven testing approach
+
+---
+
+#### 🎯 [Advanced Test Automation Framework](https://github.com/anashasabelnabi/Test-Automation-Framework)
+> Scalable and maintainable test automation framework built from scratch
+- **Tech Stack:** Selenium, TestNG, Java, Maven, Allure Reports
+- **Features:**
+  - Modular framework architecture
+  - Reusable components and utilities
+  - Parallel test execution
+  - Comprehensive reporting with screenshots
+- **Highlights:** Clean code architecture, Best practices implementation, Easy to extend
+
+---
+
+#### 🏫 [YaSchools Platform Automation](https://github.com/anashasabelnabi/YaSchools-Automation)
+> Automated testing solution for educational management system
+- **Tech Stack:** Selenium WebDriver, TestNG, Java
+- **Features:**
+  - User authentication flows
+  - Student management operations
+  - Course enrollment validation
+  - Admin panel testing
+- **Highlights:** Real-world application testing, Complex workflow automation
 
 ---
 
@@ -144,7 +186,7 @@ const currentGoals = {
     building: [
         "Open-source automation frameworks",
         "Technical blog on testing best practices",
-        "GitHub portfolio showcasing real projects"
+        "Advanced Playwright and API testing projects"
     ],
     career: [
         "Transitioning to Technical Lead role",
@@ -169,14 +211,8 @@ const currentGoals = {
 
 ---
 
-### 📈 Activity Graph
-
-[![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anashasabelnabi&theme=react-dark)](https://github.com/anashasabelnabi)
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anashasabelnabi&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AnasHasabelelnabi&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
   
   ### ⚡ "Quality is not an act, it is a habit." - Aristotle
   
